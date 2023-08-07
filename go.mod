@@ -1,4 +1,4 @@
-module testCode/Projects/bank-lib
+module github.com/svrajput/bank-lib
 
 go 1.20
 
