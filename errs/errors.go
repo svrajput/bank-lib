@@ -1,4 +1,5 @@
 package errs
+// package created for banking project
 
 import "net/http"
 
